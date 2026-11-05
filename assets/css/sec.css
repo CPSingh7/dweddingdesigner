@@ -1116,7 +1116,7 @@ body:not(.woocommerce-cart) .main-content table tr:nth-child(2n+1) {
 /** Mobile **/
 @media only screen and (min-width: 1px) and (max-width: 999px) {
     body #header-outer {
-        padding: 20px 0;
+        padding: 0;
     }
     #slide-out-widget-area .menuwrapper .menu li a:before {
         font-size: 16px;
